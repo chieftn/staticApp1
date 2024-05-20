@@ -835,7 +835,7 @@ const useHomePageRender = (props) => {
     const { state, styles } = props;
     return (react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_do_components__WEBPACK_IMPORTED_MODULE_1__.Page, null,
         react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", { className: styles.root },
-            react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", null, (0,_do_localization__WEBPACK_IMPORTED_MODULE_3__.t)(_do_localization__WEBPACK_IMPORTED_MODULE_3__.strings.home.title)),
+            react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", null, "Hi team!!!"),
             react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_HomeSection__WEBPACK_IMPORTED_MODULE_2__.HomeSection, { title: (0,_do_localization__WEBPACK_IMPORTED_MODULE_3__.t)(_do_localization__WEBPACK_IMPORTED_MODULE_3__.strings.home.prepare.title), actions: [
                     {
                         key: 'mapping',
